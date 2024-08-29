@@ -48,6 +48,3 @@ To set up the application locally, follow these steps:
    ```sh
    streamlit run app.py
    ```
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
