@@ -1,7 +1,7 @@
-faiss-cpu
+faiss-cpu    # Vector Embeddings
 groq
-langchain-groq
-PyPDF2
+langchain-groq  # Framework for creating AI Genertaed Apllications
+PyPDF2     # Read pdf from Documents
 langchain_google_genai
 langchain
 streamlit
