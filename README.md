@@ -4,14 +4,17 @@
 [![Embeddings](https://img.shields.io/badge/Embeddings-Google%20Generative%20AI-0000FF)](https://ai.google.dev/)
 [![API](https://img.shields.io/badge/API-Groq%20API-FF8C00)](https://groq.com/)
 
-## Project Name: **Gemma Model Document Q&A**
-
+## Project Name: **[Gemma Model Document Q&A](https://documentappchatbot-rv2kj2bsxhuurtzetnq2od.streamlit.app/)**
 This repository contains the source code for the **Gemma Model Document Q&A** web application, developed and deployed using Streamlit. The app allows users to ask questions related to specific documents, and it retrieves the most relevant answers based on the context provided by the documents.
 
-## Features
+## Features ⚒️
 1. **Document Ingestion**: Load and preprocess PDF documents from a specified directory.
 2. **Vector Embedding**: Convert document chunks into vector embeddings using Google Generative AI Embeddings.
 3. **Question Answering**: Answer user queries by retrieving relevant document chunks and generating context-based responses using the Llama3-8b-8192 model.
+
+## Live Demo 🌐🌏
+
+You can explore ChatMine in action through our live demo hosted at [https://documentappchatbot-rv2kj2bsxhuurtzetnq2od.streamlit.app/](https://documentappchatbot-rv2kj2bsxhuurtzetnq2od.streamlit.app/). Feel free to check it out and experience the analysis and visualization capabilities firsthand.
 
 ## How to Use the Web Application
 1. Open the web application using Streamlit.
