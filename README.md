@@ -1,5 +1,5 @@
 [![Streamlit](https://img.shields.io/badge/Framework-Streamlit-FF4B4B)](https://streamlit.io/)
-![Language](https://img.shields.io/badge/Language-Python-0000FF)
+![Language](https://img.shields.io/badge/Language-Python-79FFB2)
 [![Model](https://img.shields.io/badge/Model-Llama3--8b--8192-FF8C00)](https://groq.com/groundbreaking-gemma-7b-performance-running-on-the-groq-lpu-inference-engine/)
 [![Embeddings](https://img.shields.io/badge/Embeddings-Google%20Generative%20AI-0000FF)](https://ai.google.dev/)
 [![API](https://img.shields.io/badge/API-Groq%20API-FF8C00)](https://groq.com/)
