@@ -31,7 +31,7 @@ To set up the application locally, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/gemma-doc-qa.git
+   git clone https://github.com/ShifaZahra123/gemma-doc-qa.git
    ```
 2. Navigate to the project directory:
    ```sh
