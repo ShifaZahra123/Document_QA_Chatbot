@@ -14,7 +14,7 @@ This repository contains the source code for the **Gemma Model Document Q&A** we
 
 ## Live Demo 🌐🌏
 
-You can explore ChatMine in action through our live demo hosted at [https://documentappchatbot-rv2kj2bsxhuurtzetnq2od.streamlit.app/](https://documentappchatbot-rv2kj2bsxhuurtzetnq2od.streamlit.app/). Feel free to check it out and experience the analysis and visualization capabilities firsthand.
+You can explore Gemma Model Document Q&A in action through live demo hosted at [https://documentappchatbot-rv2kj2bsxhuurtzetnq2od.streamlit.app/](https://documentappchatbot-rv2kj2bsxhuurtzetnq2od.streamlit.app/). Feel free to check it out and experience the analysis and visualization capabilities firsthand.
 
 ## How to Use the Web Application
 1. Open the web application using Streamlit.
