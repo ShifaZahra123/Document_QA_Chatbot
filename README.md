@@ -4,7 +4,7 @@
 [![Embeddings](https://img.shields.io/badge/Embeddings-Google%20Generative%20AI-00C853)](https://ai.google.dev/)
 [![API](https://img.shields.io/badge/API-Groq%20API-FF8C00)](https://groq.com/)
 
-## Project Name: **Gemma Model Document Q&A**
+### Project Name: **Gemma Model Document Q&A**
 
 This repository contains the source code for the **Gemma Model Document Q&A** web application, developed and deployed using Streamlit. The app allows users to ask questions related to specific documents, and it retrieves the most relevant answers based on the context provided by the documents.
 
@@ -23,7 +23,7 @@ This repository contains the source code for the **Gemma Model Document Q&A** we
 The PDF documents used in this application are loaded from a local directory (`./us_census`). Ensure that your documents are placed in this directory before running the application.
 
 ### Sample Application Workflow
-![Workflow](Sample-Images/Workflow.PNG)
+![Workflow](Sample_Images/Workflow.PNG)
 
 ## Installation
 To set up the application locally, follow these steps:
