@@ -2,7 +2,6 @@
 ![Language](https://img.shields.io/badge/Language-Python-0000FF)
 [![Model](https://img.shields.io/badge/Model-Llama3--8b--8192-FF8C00)](https://groq.com/groundbreaking-gemma-7b-performance-running-on-the-groq-lpu-inference-engine/)
 [![Embeddings](https://img.shields.io/badge/Embeddings-Google%20Generative%20AI-00C853)](https://ai.google.dev/)
-[![API](https://img.shields.io/badge/API-Google%20Gemini%20API-0000FF)](https://ai.google.dev/gemini-api/docs)
 [![API](https://img.shields.io/badge/API-Groq%20API-FF8C00)](https://groq.com/)
 
 ## Project Name: **Gemma Model Document Q&A**
