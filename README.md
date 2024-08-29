@@ -23,7 +23,7 @@ You can explore ChatMine in action through our live demo hosted at [https://docu
 4. The application will retrieve the most relevant document sections and generate an accurate response based on the context.
 
 ## Dataset
-The PDF documents used in this application are loaded from a local directory (`./us_census`). Ensure that your documents are placed in this directory before running the application.
+The PDF documents used in this application are loaded from a local directory (`./Latest_Research_Paper`). Ensure that your documents are placed in this directory before running the application.
 
 ### Sample Application Workflow
 ![Workflow](Sample_Images/Workflow.PNG)
