@@ -16,7 +16,7 @@ load_dotenv()   ## FOR LOADING ENVIRONMENT VARIABLES
 groq_api_key=os.getenv('GROQ_API_KEY')
 os.environ["GOOGLE_API_KEY"]=os.getenv("GOOGLE_API_KEY")
 
-st.title("Document Q & A Bot")
+st.title("Document Q & A Bot💁")
 
 ## Gema Model is using for this ChatBot Model: Gemma-7b-It
 llm=ChatGroq(groq_api_key=groq_api_key,
